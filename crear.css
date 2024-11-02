@@ -10,7 +10,7 @@
     font-size: 20px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     padding: 20px;
-    background-image: url('../Imagenes/wel.PNG'); /* Reemplaza 'ruta_de_tu_imagen.png' con la ruta de tu imagen */
+    background-image: url('bueno.PNG'); /* Reemplaza 'ruta_de_tu_imagen.png' con la ruta de tu imagen */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
